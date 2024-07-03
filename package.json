@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "displayName": "Template",
   "description": "кто прочитал тот гей",
-  "unity": "2022",
+  "unity": "2020.3",
   "keywords": [
     "template",
     "unity"
@@ -12,5 +12,14 @@
     "com.unity.addressables": "1.21.21",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.textmeshpro": "3.0.6"
+  },
+  "author": {
+    "name": "Your Name",
+    "email": "yourname@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VivatikPumpkinEater/TemplatePackage.git"
   }
 }
